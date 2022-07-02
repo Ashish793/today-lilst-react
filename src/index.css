@@ -1,0 +1,10 @@
+html {
+  background: darkslategray;
+}
+.container-fluid {
+  background: darkslategray;
+  color: white;
+}
+input[type="text"] {
+
+}
